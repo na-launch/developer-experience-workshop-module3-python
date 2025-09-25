@@ -27,7 +27,3 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
-
-# HELP! My neighbor's favorite topic is pets, but he always gets my cats name wrong!
-# I've suggested he look on pk-kafka-kafka-bootstrap.pk-world.svc.cluster.local for my cats name
-# Think you can find my cats name?
