@@ -1,0 +1,8 @@
+site_name: Module 3 - Python
+site_description: Managing Your Container Workspace - Python
+
+nav:
+  - Overview: index.md
+
+plugins:
+  - techdocs-core

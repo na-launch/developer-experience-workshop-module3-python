@@ -1,0 +1,16 @@
+schemaVersion: 2.2.2
+metadata:
+  name: workshop-module3-python
+  version: 1.0.0
+  description: DevSpaces workspace for Python app
+attributes:
+  che-editor: vscode
+components:
+- container:
+    args:
+    - tail
+    - -f
+    - /dev/null
+    image: image-registry.openshift-image-registry.svc.cluster.local:5000/openshift/devspaces-dotnet-python:latest
+    mountSources: true
+  name: py
