@@ -56,15 +56,15 @@ The application has some problems that we would like you to fix:
 
 ## 🧩 **Challenge**
 
-- Add your devfile tasks to the tasks.json
-- Load 3 python extensions into a `.vscode/extensions.json` file
-- Write a few small unit tests using mocks for the Kafka producer to verify that your logic (like input handling and retry mechanisms) works as expected without needing a real Kafka cluster.
+- [ ] Add your devfile tasks to the tasks.json
+- [ ] Load 3 python extensions into a `.vscode/extensions.json` file
+- [ ] Write a few small unit tests using mocks for the Kafka producer to verify that your logic (like input handling and retry mechanisms) works as expected without needing a real Kafka cluster.
 
 ---
 
 ## 🥚 **Easter Eggs!**
 
-- There is an easter egg in the code
+- [ ] There is an easter egg in the code
   - Be thorough! Look through the code.
 
 ---
